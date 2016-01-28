@@ -1,5 +1,5 @@
 # springJersey
-jersey integrated with spring
+jersey integrated with spring (rest)
 
 
 http://localhost:8080/SpringMVCTesting/rest/welcome/pojo
